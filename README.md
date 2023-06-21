@@ -9,3 +9,5 @@ By the end of this video you will understand:
 5) How to add Marquee to text view.
 6) How to change text view Background.
 
+Video Link : https://www.youtube.com/watch?v=b6wrWKXhABc&t=5s
+
